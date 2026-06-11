@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 # --- Client init ---
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 # --- System prompt ---
 SYSTEM_PROMPT = """You are an expert Python code reviewer.
