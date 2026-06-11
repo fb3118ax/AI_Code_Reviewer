@@ -5,3 +5,4 @@ __pycache__/
 *.ipynb
 artificial-intelligence.png
 artificial-intelligence1.png
+venv/
