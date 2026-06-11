@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: AI Code Reviewer Bot
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: This bot reviews the code and helps with bug fixes.
+license: mit
 ---
 
 # Welcome to Streamlit!
