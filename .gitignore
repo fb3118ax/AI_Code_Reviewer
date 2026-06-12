@@ -4,5 +4,9 @@ __pycache__/
 *.pyc
 *.ipynb
 artificial-intelligence.png
+<<<<<<< HEAD
 artificial-intelligence1.png
 venv/
+=======
+artificial-intelligence1.png
+>>>>>>> 3abf6e89012ddd4e8bc65e31f8af521440ade2da
